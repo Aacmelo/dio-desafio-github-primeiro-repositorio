@@ -1,0 +1,4 @@
+Anotações:
+Link para download do Git: http://git-scm.com/
+O Git Bash é um terminal entendido para utilizar o uso do Git.
+
